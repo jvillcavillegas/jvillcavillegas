@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Jose Luis Villca Villegas, Medical Student, Former Chief Editor , Sci Journal developer on OJS3
-- 👀 I’m interested in public health, epidemiology and data analytics
-- 🌱 I’m currently learning @Rstudio 
-- 💞️ I’m looking to collaborate on clinical research
+- 👋 Hi, I’m Jose Luis Villca Villegas, I have a Medical Degree, Former Chief Editor , Sci Journal developer on OJS3
+- 👀 I’m interested in public health, epidemiology, data analytics, open science, open source
+- 🌱 I’m currently learning and mastering @Rstudio
 - 📫 How to reach me jvillcavillegas@gmail.com
 
 <!---
